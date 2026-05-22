@@ -1,0 +1,8 @@
+{
+    "chat.tools.terminal.autoApprove": {
+        "/^cd /workspaces/skills-getting-started-with-github-copilot && pip install -q -r requirements\\.txt$/": {
+            "approve": true,
+            "matchCommandLine": true
+        }
+    }
+}
